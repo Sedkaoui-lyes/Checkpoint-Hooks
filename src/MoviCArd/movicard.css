@@ -1,0 +1,15 @@
+.h-card{
+    width: 25rem;
+    height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+.h-card span {
+    font-weight: bold;
+    
+
+
+}
